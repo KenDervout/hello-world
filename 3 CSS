@@ -1,0 +1,55 @@
+#accueil{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+a{
+	color: #ffcf10;
+	border: 1px solid white;
+	left: 50px;
+	margin: 0px;
+	padding: 0px 10px 0px 10px;
+	text-decoration: none;
+	}
+
+body{
+	background: url(circus-11.jpg);
+	background-repeat: no-repeat;
+	font-family: hobo Std;
+}
+h1,h2{
+	text-align: center;
+	color: #ffcf10;
+	}
+.element{
+	font-size: 28px;
+}	
+#date{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}	
+
+ul{
+	font-size: 22px;
+	color: #ffcf10;
+	}
+.terre{
+	text-align: center;
+}	
+span{
+	text-decoration: underline;
+color: white;
+margin-left: 80px;
+}
+
+h1{
+	font-size: 50px;
+}
+h2{
+	font-size: 37px;
+}
+
+footer{
+	text-align: center;
+}
